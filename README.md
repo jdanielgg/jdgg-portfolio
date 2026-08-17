@@ -1,1 +1,3 @@
-# JDGG Portfolio v2\n\nReplace YOUR_EMAIL@example.com in index.html before publishing.\n
+# JDGG Portfolio v3
+
+Includes profile photo and downloadable CV. Analytics intentionally not included yet.
